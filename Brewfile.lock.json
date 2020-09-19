@@ -84,6 +84,27 @@
             }
           }
         }
+      },
+      "awscli": {
+        "version": "2.0.48",
+        "bottle": {
+          "cellar": "/usr/local/Cellar",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/awscli-2.0.48.catalina.bottle.tar.gz",
+              "sha256": "e2568d1fd54df10a00bb3722038bd19f510c7f01bcbed889ff77b6f74d5abb7f"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/awscli-2.0.48.mojave.bottle.tar.gz",
+              "sha256": "f045f77e8e74167c1b27daca4bf1a3e96e8446990f70112c43b4448acc369c9d"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/awscli-2.0.48.high_sierra.bottle.tar.gz",
+              "sha256": "907821d5d4cad35c2a1f54a5ab0ce90a8e97e9bd1831bd8ac2784f9f359afe28"
+            }
+          }
+        }
       }
     },
     "cask": {
@@ -128,6 +149,57 @@
         "options": {
           "full_name": "google-japanese-ime"
         }
+      },
+      "slack": {
+        "version": "4.9.0",
+        "options": {
+          "full_name": "slack"
+        }
+      },
+      "discord": {
+        "version": "0.0.259",
+        "options": {
+          "full_name": "discord"
+        }
+      },
+      "font-ricty-diminished": {
+        "version": "4.1.1",
+        "options": {
+          "full_name": "font-ricty-diminished"
+        }
+      },
+      "box-drive": {
+        "version": "latest",
+        "options": {
+          "full_name": "box-drive"
+        }
+      },
+      "dropbox": {
+        "version": "latest",
+        "options": {
+          "full_name": "dropbox"
+        }
+      },
+      "google-drive-file-stream": {
+        "version": "latest",
+        "options": {
+          "full_name": "google-drive-file-stream"
+        }
+      }
+    },
+    "mas": {
+      "LINE": {
+        "id": "539883307",
+        "version": "6.3.1"
+      },
+      "Xcode": {
+        "id": "497799835",
+        "version": "12.0"
+      }
+    },
+    "tap": {
+      "homebrew/cask-fonts": {
+        "revision": "05ca9a1455a06a2eda4627c80df6c399899af024"
       }
     }
   },
@@ -137,9 +209,9 @@
         "HOMEBREW_VERSION": "2.5.1",
         "HOMEBREW_PREFIX": "/usr/local",
         "Homebrew/homebrew-core": "33ab1781fd7c8eaa089054c47ea19724647b5300",
-        "CLT": "12.0.0.0.1.1599194153",
+        "CLT": "12.0.32.2",
         "Xcode": "12.0",
-        "macOS": "10.15.4"
+        "macOS": "10.15.6"
       }
     }
   }
