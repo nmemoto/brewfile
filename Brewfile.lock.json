@@ -105,6 +105,27 @@
             }
           }
         }
+      },
+      "fontforge": {
+        "version": "20200314_1",
+        "bottle": {
+          "cellar": "/usr/local/Cellar",
+          "prefix": "/usr/local",
+          "files": {
+            "catalina": {
+              "url": "https://homebrew.bintray.com/bottles/fontforge-20200314_1.catalina.bottle.tar.gz",
+              "sha256": "6d2000c43d84a3353e7e27923c62ced0e5892338e69c6d341e61194cc70c1b4a"
+            },
+            "mojave": {
+              "url": "https://homebrew.bintray.com/bottles/fontforge-20200314_1.mojave.bottle.tar.gz",
+              "sha256": "3c94c039f0524bdf6e4748f65b7677c9d73ecd07718221dbc8eb1c143fe236d1"
+            },
+            "high_sierra": {
+              "url": "https://homebrew.bintray.com/bottles/fontforge-20200314_1.high_sierra.bottle.tar.gz",
+              "sha256": "1252f93604edae781fd5035ba5c367d820e341c13eec155bb24cf9ad5499dc4a"
+            }
+          }
+        }
       }
     },
     "cask": {
@@ -185,6 +206,18 @@
         "options": {
           "full_name": "google-drive-file-stream"
         }
+      },
+      "gimp": {
+        "version": "2.10.14",
+        "options": {
+          "full_name": "gimp"
+        }
+      },
+      "font-source-han-code-jp": {
+        "version": "2.011",
+        "options": {
+          "full_name": "font-source-han-code-jp"
+        }
       }
     },
     "mas": {
@@ -199,7 +232,7 @@
     },
     "tap": {
       "homebrew/cask-fonts": {
-        "revision": "05ca9a1455a06a2eda4627c80df6c399899af024"
+        "revision": "57ef0871ef95d5fe5ed9214064e6876ec65ed12c"
       }
     }
   },
@@ -208,7 +241,7 @@
       "catalina": {
         "HOMEBREW_VERSION": "2.5.1",
         "HOMEBREW_PREFIX": "/usr/local",
-        "Homebrew/homebrew-core": "33ab1781fd7c8eaa089054c47ea19724647b5300",
+        "Homebrew/homebrew-core": "85e3d58f3a1272361dc0282bdca6ed7801bfeb60",
         "CLT": "12.0.32.2",
         "Xcode": "12.0",
         "macOS": "10.15.6"

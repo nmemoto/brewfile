@@ -17,7 +17,8 @@ cask 'discord'
 cask 'box-drive'
 cask 'dropbox'
 cask 'google-drive-file-stream'
+cask 'gimp'
 mas 'LINE', id: 539883307
 mas "Xcode", id: 497799835
 
-cask 'font-ricty-diminished'
+cask 'font-source-han-code-jp'
