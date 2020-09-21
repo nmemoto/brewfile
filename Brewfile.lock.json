@@ -218,6 +218,12 @@
         "options": {
           "full_name": "font-source-han-code-jp"
         }
+      },
+      "postman": {
+        "version": "7.32.0",
+        "options": {
+          "full_name": "postman"
+        }
       }
     },
     "mas": {
@@ -232,6 +238,10 @@
       "Twitter": {
         "id": "1482454543",
         "version": "8.36"
+      },
+      "Kindle": {
+        "id": "405399194",
+        "version": "1.29.0"
       }
     },
     "tap": {
