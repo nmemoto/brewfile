@@ -245,6 +245,12 @@
         "options": {
           "full_name": "postman"
         }
+      },
+      "deepl": {
+        "version": "1.10.1",
+        "options": {
+          "full_name": "deepl"
+        }
       }
     },
     "mas": {
@@ -258,7 +264,7 @@
       },
       "Twitter": {
         "id": "1482454543",
-        "version": "8.36"
+        "version": "8.37.1"
       },
       "Kindle": {
         "id": "405399194",

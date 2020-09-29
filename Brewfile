@@ -20,6 +20,7 @@ cask 'dropbox'
 cask 'google-drive-file-stream'
 cask 'gimp'
 cask 'postman'
+cask 'deepl'
 mas 'LINE', id: 539883307
 mas "Xcode", id: 497799835
 mas 'Twitter', id: 1482454543
