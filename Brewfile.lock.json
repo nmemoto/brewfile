@@ -251,12 +251,18 @@
         "options": {
           "full_name": "deepl"
         }
+      },
+      "notion": {
+        "version": "2.0.8",
+        "options": {
+          "full_name": "notion"
+        }
       }
     },
     "mas": {
       "LINE": {
         "id": "539883307",
-        "version": "6.3.1"
+        "version": "6.3.2"
       },
       "Xcode": {
         "id": "497799835",
@@ -264,7 +270,7 @@
       },
       "Twitter": {
         "id": "1482454543",
-        "version": "8.37.1"
+        "version": "8.40"
       },
       "Kindle": {
         "id": "405399194",
@@ -285,7 +291,7 @@
         "Homebrew/homebrew-core": "85e3d58f3a1272361dc0282bdca6ed7801bfeb60",
         "CLT": "12.0.32.2",
         "Xcode": "12.0",
-        "macOS": "10.15.6"
+        "macOS": "10.15.7"
       }
     }
   }
